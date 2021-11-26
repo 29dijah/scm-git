@@ -8,5 +8,4 @@ struktur
 -framework
 -vlog
 -interview
--hfffevfhf
--bfsdhvhasdvhc
+
